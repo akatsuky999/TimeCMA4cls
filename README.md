@@ -5,7 +5,7 @@ This repository provides a **classification-task implementation** based on the c
 > **TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment**
 
 Originally proposed for **multivariate time series forecasting (MTSF)**, the TimeCMA framework introduces an intuitive and effective **cross-modality alignment mechanism** to leverage large language models (LLMs).  
-**In this repository, we adapt and extend the original implementation to support time series classification tasks.**
+**In this repository, I adapt and extend the original implementation to support time series classification tasks.**
 
 ---
 

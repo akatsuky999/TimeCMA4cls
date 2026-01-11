@@ -1,8 +1,3 @@
-"""
-Collection of functions which enable the evaluation of a classifier's performance,
-by showing confusion matrix, accuracy, recall, precision etc.
-"""
-
 import numpy as np
 import sys
 

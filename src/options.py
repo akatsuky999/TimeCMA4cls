@@ -1,6 +1,3 @@
-"""
-Command-line options for TSCMA (TimeCMA for Time Series Classification)
-"""
 import argparse
 
 

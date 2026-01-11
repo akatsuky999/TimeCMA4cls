@@ -1,6 +1,3 @@
-"""
-TSCMA: Dataset classes for TimeCMA time series classification.
-"""
 import os
 import numpy as np
 from torch.utils.data import Dataset

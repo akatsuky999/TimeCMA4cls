@@ -1,8 +1,3 @@
-"""
-TSCMA: TimeCMA Runner for Time Series Classification
-
-Training and evaluation runners for TimeCMA model.
-"""
 import logging
 import sys
 import os
